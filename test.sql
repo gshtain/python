@@ -1,0 +1,1 @@
+drop table if exists wixraptor.editor_wix_code.firsts_data_by_site_raw_data_wt_test ;{}
